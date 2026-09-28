@@ -63,3 +63,23 @@ CyberClub — информационная система для брониро�
 3. Создание ADR-001.
 4. Настройка GitHub Projects.
 5. Настройка правил именования задач и веток.
+
+## Документы лабораторной работы №2
+
+- [Сравнение моделей поставки](docs/case-comparison.md)
+- [ADR-001: выбор модели поставки CyberClub](docs/adr/ADR-001-delivery-model.md)
+- [Правила именования задач и веток](docs/naming-conventions.md)
+
+## Рабочее пространство
+
+Для управления задачами используется GitHub Projects.
+
+Рабочий процесс:
+
+Backlog → To Do → In Progress → Review → Done
+
+Для задач используются кастомные поля:
+
+- Task Type
+- Priority
+- Estimate
